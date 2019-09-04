@@ -226,7 +226,7 @@ input[type=submit] {
   .main-section {
     width: 60%;
     float: left;
-    margin-top: 0px;
+    margin-top: 30px;
     margin-left: 5%;
     padding-top: 0px;
   }
@@ -234,10 +234,11 @@ input[type=submit] {
 #masthead {
   width: 100%;
   left: 0;
+  top: 0;
   }
 
 #logo {
-  margin-left: 6%;
+  margin-left: 5%;
   }
 
 nav {
