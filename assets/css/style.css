@@ -232,11 +232,14 @@ input[type=submit] {
   }
 
 #masthead {
+  position: relative;
   width: 100%;
   left: 0;
   top: 0;
   }
-
+#main-container {
+  padding-top: 0px;
+}
 #logo {
   margin-left: 5%;
   }
@@ -255,6 +258,9 @@ nav {
     padding-top: 0px;
     margin-top: 0px;
   }
+  #main-container {
+    padding-top: 0px;
+  }
 }
 
 @media screen and (max-width: 640px) {
@@ -265,7 +271,9 @@ nav {
   padding: 5px;
 
 }
-
+#main-container {
+  padding-top: 0px;
+}
 .main-section {
   margin-top: 30px;
   
