@@ -146,7 +146,7 @@ h3, h2 {
   position: relative;
   float: left;
   width: 274px;
-  margin: 20px 0 25px;
+  margin: 20px 10px 25px 10px;
   overflow: auto;
 }
 
@@ -224,7 +224,7 @@ input[type=submit] {
 
 @media screen and (max-width: 980px) {
   .main-section {
-    width: 60%;
+    width: 90%;
     float: left;
     margin-top: 30px;
     margin-left: 5%;
@@ -273,18 +273,23 @@ nav {
 }
 #main-container {
   padding-top: 0px;
+  
 }
 .main-section {
   margin-top: 30px;
-  
 }
+
 #logo {
 width: 100%;
 margin-top: 0;
 margin-left: 0;
 top: 0;
 }
-
-
-
+.container {
+background: 
 }
+.h1 {
+  background: #4aaaa5;
+}
+
+
