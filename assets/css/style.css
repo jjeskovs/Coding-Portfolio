@@ -3,7 +3,10 @@ body {
   font-size: 18px;
   line-height: 34px;
   color: #777777;
-  background: url("../images/concrete_seamless.png");
+  background: url("../images/background.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 * {
@@ -291,5 +294,3 @@ background:
 .h1 {
   background: #4aaaa5;
 }
-
-
