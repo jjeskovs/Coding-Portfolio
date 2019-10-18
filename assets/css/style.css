@@ -15,6 +15,7 @@ input, textarea {
 }
 * {
   box-sizing: border-box;
+  /* margin: 0; */
 }
 
 /* general */
